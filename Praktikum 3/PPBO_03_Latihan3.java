@@ -7,7 +7,7 @@ public class PPBO_03_Latihan3 {
         /*for (int i = 1; i < 6; i++) {
             System.out.println("elemen ke-" + i + " = " + arr[i]);*/
         for(int i = 0; i < 5; i++) {
-            System.out.println("elemen ke-" + i + "=" + arr[i]);
+            System.out.println("elemen ke-" + i + " = " + arr[i]);
         }
     }
 }
